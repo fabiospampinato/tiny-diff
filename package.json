@@ -1,5 +1,5 @@
 {
-  "name": "tiny-diff",
+  "name": "@fabiospampinato/tiny-diff",
   "description": "A tiny diff function for the DOM, heavily based on udomdiff.",
   "version": "1.0.0",
   "main": "dist/index.js",
