@@ -2,7 +2,7 @@
   "name": "@fabiospampinato/tiny-diff",
   "repository": "github:fabiospampinato/tiny-diff",
   "description": "A tiny diff function for the DOM, heavily based on udomdiff.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
